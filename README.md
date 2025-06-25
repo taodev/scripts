@@ -19,5 +19,5 @@
 
 #### 示例
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/taodev/scripts/main/git/git-clone-dir.sh) -c clone-dir repo dir1
+bash <(curl -fsSL https://raw.githubusercontent.com/taodev/scripts/main/git/git-clone-dir.sh) repo dir1
 ```
